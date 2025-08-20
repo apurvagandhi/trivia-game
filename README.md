@@ -23,6 +23,8 @@ Once you've set up GitHub Pages (see instructions below), your game will be play
 ## 📸 Screenshots
 
 ![Game Screenshot](./docs/images/game-screenshot.png)
+<img width="897" height="231" alt="image" src="https://github.com/user-attachments/assets/72d88077-e38a-4e98-8aaa-77bcce7282f9" />
+
 
 ## ✨ Features
 
@@ -205,3 +207,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the open source community**
 
 *Perfect for first-time contributors! Don't hesitate to ask questions.* 🚀
+
