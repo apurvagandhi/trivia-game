@@ -11,10 +11,6 @@ A fun, interactive trivia game built with HTML, CSS, and JavaScript. This projec
 
 [Play Game](https://apurvagandhi.github.io/trivia-game/)
 
-## 📸 Screenshots
-
-![Game Screenshot](./docs/images/game-screenshot.png)
-
 ## ✨ Features
 
 - 🎲 Multiple categories (Science, History, Sports, Entertainment)
@@ -196,5 +192,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the open source community**
 
 *Perfect for first-time contributors! Don't hesitate to ask questions.* 🚀
+
 
 
