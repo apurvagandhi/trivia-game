@@ -34,7 +34,7 @@ A fun, interactive trivia game built with HTML, CSS, and JavaScript. This projec
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/trivia-game.git
+   git clone https://github.com/apurvagandhi/trivia-game.git
    cd trivia-game
    ```
 
@@ -178,20 +178,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to all contributors!
 
 ## 📞 Support
-
-- 📧 Email: [your-email@example.com]
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/trivia-game/discussions)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/trivia-game/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/apurvagandhi/trivia-game/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/apurvagandhi/trivia-game/issues)
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/trivia-game&type=Date)](https://star-history.com/#your-username/trivia-game&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=apurvagandhi/trivia-game&type=Date)](https://star-history.com/#apurvagandhi/trivia-game&Date)
 
 ---
 
 **Made with ❤️ for the open source community**
 
 *Perfect for first-time contributors! Don't hesitate to ask questions.* 🚀
+
 
 
 
