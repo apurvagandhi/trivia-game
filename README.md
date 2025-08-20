@@ -9,7 +9,16 @@ A fun, interactive trivia game built with HTML, CSS, and JavaScript. This projec
 
 ## 🎮 Live Demo
 
-[Play the Trivia Game](https://your-username.github.io/trivia-game) *(Replace with your GitHub Pages URL)*
+Once you've set up GitHub Pages (see instructions below), your game will be playable at:
+`https://your-github-username.github.io/trivia-game`
+
+### Setting up GitHub Pages
+1. Push this repository to GitHub
+2. Go to your repository's Settings
+3. Click on "Pages" in the left sidebar
+4. Under "Source", select your main branch
+5. Click "Save"
+6. Wait a few minutes, and your site will be live!
 
 ## 📸 Screenshots
 
