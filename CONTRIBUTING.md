@@ -33,12 +33,12 @@ This project follows our [Code of Conduct](CODE_OF_CONDUCT.md). By participating
 ### First-Time Setup
 
 1. **Fork the repository**
-   - Go to the [main repository](https://github.com/your-username/trivia-game)
+   - Go to the [main repository](https://github.com/apurvagandhi/trivia-game)
    - Click the "Fork" button in the top-right corner
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/trivia-game.git
+   git clone https://github.com/apurvagandhi/trivia-game.git
    cd trivia-game
    ```
 
@@ -316,3 +316,4 @@ Every contribution, no matter how small, makes this project better. We appreciat
 ---
 
 **Questions?** Don't hesitate to ask! We're here to help you succeed. 🚀
+
