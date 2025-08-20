@@ -9,16 +9,7 @@ A fun, interactive trivia game built with HTML, CSS, and JavaScript. This projec
 
 ## 🎮 Live Demo
 
-Once you've set up GitHub Pages (see instructions below), your game will be playable at:
-`https://your-github-username.github.io/trivia-game`
-
-### Setting up GitHub Pages
-1. Push this repository to GitHub
-2. Go to your repository's Settings
-3. Click on "Pages" in the left sidebar
-4. Under "Source", select your main branch
-5. Click "Save"
-6. Wait a few minutes, and your site will be live!
+[Play Game](https://apurvagandhi.github.io/trivia-game/)
 
 ## 📸 Screenshots
 
@@ -205,4 +196,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the open source community**
 
 *Perfect for first-time contributors! Don't hesitate to ask questions.* 🚀
+
 
