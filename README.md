@@ -1,3 +1,4 @@
+
 # 🎯 Trivia Game - Open Source Learning Project
 
 ![Trivia Game](https://img.shields.io/badge/Status-Active-brightgreen)
