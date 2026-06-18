@@ -4,7 +4,7 @@
 ![Trivia Game](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-orange.svg)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-green.svg)
+![Beginner Friendly](https://img.shields.io/badge/Beg inner-Friendly-green.svg)
 
 A fun, interactive trivia game built with HTML, CSS, and JavaScript. This project is specifically designed for **first-time open source contributors** to learn and practice contributing to open source projects!
 
